@@ -1,0 +1,149 @@
+# Created at 2023-08-13T10:47:52.283
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2023-08-13T10:47:52.800
+Unexpected IOException with stream: 2023-08-13 10:47:52.799  INFO 12408 --- [           main] o.s.cloud.commons.util.InetUtils         : Cannot determine local hostname
+
+
+# Created at 2023-08-13T10:47:52.931
+Unexpected IOException with stream: 2023-08-13 10:47:52.930  WARN 12408 --- [           main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+
+
+# Created at 2023-08-13T10:47:52.982
+Unexpected IOException with stream: 2023-08-13 10:47:52.981  INFO 12408 --- [           main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+
+
+# Created at 2023-08-13T10:47:53.136
+Unexpected IOException with stream: 2023-08-13 10:47:53.132  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+
+
+# Created at 2023-08-13T10:47:53.148
+Unexpected IOException with stream: 2023-08-13 10:47:53.147  INFO 12408 --- [           main] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+
+
+# Created at 2023-08-13T10:47:53.208
+Unexpected IOException with stream: 2023-08-13 10:47:53.206  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+
+
+# Created at 2023-08-13T10:47:53.210
+Unexpected IOException with stream: 2023-08-13 10:47:53.209  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+
+
+# Created at 2023-08-13T10:47:53.213
+Unexpected IOException with stream: 2023-08-13 10:47:53.212  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+
+
+# Created at 2023-08-13T10:47:53.222
+Unexpected IOException with stream: 2023-08-13 10:47:53.214  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Application is null : false
+
+
+# Created at 2023-08-13T10:47:53.226
+Unexpected IOException with stream: 2023-08-13 10:47:53.223  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+
+
+# Created at 2023-08-13T10:47:53.228
+Unexpected IOException with stream: 2023-08-13 10:47:53.228  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Application version is -1: true
+
+
+# Created at 2023-08-13T10:47:53.231
+Unexpected IOException with stream: 2023-08-13 10:47:53.230  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+
+
+# Created at 2023-08-13T10:47:54.213
+Unexpected IOException with stream: 2023-08-13 10:47:54.212  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : The response status is 200
+
+
+# Created at 2023-08-13T10:47:54.220
+Unexpected IOException with stream: 2023-08-13 10:47:54.219  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Starting heartbeat executor: renew interval is: 30
+
+
+# Created at 2023-08-13T10:47:54.227
+Unexpected IOException with stream: 2023-08-13 10:47:54.226  INFO 12408 --- [           main] c.n.discovery.InstanceInfoReplicator     : InstanceInfoReplicator onDemand update allowed rate per min is 4
+
+
+# Created at 2023-08-13T10:47:54.239
+Unexpected IOException with stream: 2023-08-13 10:47:54.237  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1691903874236 with initial instances count: 0
+
+
+# Created at 2023-08-13T10:47:54.248
+Unexpected IOException with stream: 2023-08-13 10:47:54.247  INFO 12408 --- [           main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application API-GATEWAY with eureka with status UP
+
+
+# Created at 2023-08-13T10:47:54.252
+Unexpected IOException with stream: 2023-08-13 10:47:54.251  INFO 12408 --- [           main] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1691903874251, current=UP, previous=STARTING]
+
+
+# Created at 2023-08-13T10:47:54.257
+Unexpected IOException with stream: 2023-08-13 10:47:54.256  INFO 12408 --- [nfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/localhost:api-gateway:8765: registering service...
+
+
+# Created at 2023-08-13T10:47:54.459
+Unexpected IOException with stream: 2023-08-13 10:47:54.458  INFO 12408 --- [nfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/localhost:api-gateway:8765 - registration status: 204
+
+
+# Created at 2023-08-13T10:47:54.461
+Unexpected IOException with stream: 2023-08-13 10:47:54.458  INFO 12408 --- [           main] com.cg.ims.ApiGatewayApplicationTests    : Started ApiGatewayApplicationTests in 15.463 seconds (JVM running for 18.75)
+
+
+# Created at 2023-08-13T10:47:54.474
+Unexpected IOException: 5,1,com.cg.ims.ApiGatewayApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2023-08-13T10:47:55.302
+Unexpected IOException: 6,1,com.cg.ims.ApiGatewayApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2023-08-13T10:47:55.310
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.cg.ims.ApiGatewayApplicationTests,null,null,null
+
+
+# Created at 2023-08-13T10:48:24.222
+Unexpected IOException with stream: 2023-08-13 10:48:24.221  INFO 12408 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Disable delta property : false
+
+
+# Created at 2023-08-13T10:48:24.224
+Unexpected IOException with stream: 2023-08-13 10:48:24.223  INFO 12408 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Single vip registry refresh property : null
+
+
+# Created at 2023-08-13T10:48:24.226
+Unexpected IOException with stream: 2023-08-13 10:48:24.225  INFO 12408 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Force full registry fetch : false
+
+
+# Created at 2023-08-13T10:48:24.227
+Unexpected IOException with stream: 2023-08-13 10:48:24.227  INFO 12408 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Application is null : false
+
+
+# Created at 2023-08-13T10:48:24.228
+Unexpected IOException with stream: 2023-08-13 10:48:24.228  INFO 12408 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Registered Applications size is zero : true
+
+
+# Created at 2023-08-13T10:48:24.230
+Unexpected IOException with stream: 2023-08-13 10:48:24.229  INFO 12408 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Application version is -1: false
+
+
+# Created at 2023-08-13T10:48:24.231
+Unexpected IOException with stream: 2023-08-13 10:48:24.231  INFO 12408 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : Getting all instance registry info from the eureka server
+
+
+# Created at 2023-08-13T10:48:24.246
+Unexpected IOException with stream: 2023-08-13 10:48:24.245  INFO 12408 --- [freshExecutor-0] com.netflix.discovery.DiscoveryClient    : The response status is 200
+
+
+# Created at 2023-08-13T10:48:25.324
+Unexpected IOException with stream: 2023-08-13 10:48:25.324  INFO 12408 --- [ionShutdownHook] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application API-GATEWAY with eureka with status DOWN
+
+
+# Created at 2023-08-13T10:48:25.326
+Unexpected IOException with stream: 2023-08-13 10:48:25.325  INFO 12408 --- [ionShutdownHook] com.netflix.discovery.DiscoveryClient    : Saw local status change event StatusChangeEvent [timestamp=1691903905325, current=DOWN, previous=UP]
+
+
+# Created at 2023-08-13T10:48:25.327
+Unexpected IOException with stream: 2023-08-13 10:48:25.327  INFO 12408 --- [nfoReplicator-0] com.netflix.discovery.DiscoveryClient    : DiscoveryClient_API-GATEWAY/localhost:api-gateway:8765: registering service...
+
+
