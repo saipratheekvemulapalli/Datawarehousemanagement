@@ -1,0 +1,15 @@
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\dto\ProductDTO.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\service\ProductServiceImpl.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\controller\CustomerController.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\dto\CustomerDTO.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\exception\GlobalExceptionHandler.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\dto\CategoryDTO.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\service\ICustomerService.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\exception\ErrorInfo.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\service\IProductService.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\exception\ProductException.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\service\ICustomerServiceImpl.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\exception\CustomerException.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\InventaryManagement2Application.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\repository\IProductRepository.java
+C:\Users\mulaxmip\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\InventaryManagement2\src\main\java\com\cg\ims\repository\ICustomerRepository.java
